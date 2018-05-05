@@ -1,0 +1,2 @@
+# Bezout
+Bizuarios gerais
